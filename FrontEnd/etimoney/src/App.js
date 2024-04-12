@@ -7,7 +7,7 @@ import Main from './components/MutualFund/Main';
 function App() {
   return (
     <div className="App">
-     Hi ayush app
+     
 
      <Main/>
     </div>
